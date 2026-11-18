@@ -91,7 +91,7 @@ Data-quality checks were considered at both source-record and reporting levels. 
 |South|144.7|
 |Midwest|135.8|
 
-*(Visual chart in source document: Horizontal bar chart showing Recorded sales (millions; source currency not stated) across West (\~270), Northeast (\~186), Southeast (\~163), South (\~145), and Midwest (\~136)).*
+<img width="424" height="202" alt="Total Regional Sales" src="https://github.com/user-attachments/assets/01e5a465-5b27-4e19-84b6-8bec783c7756" />
 
 ### 👟Operating profit by product
 
@@ -104,7 +104,7 @@ Data-quality checks were considered at both source-record and reporting levels. 
 |Men's Apparel|44.8|
 |Women's Athletic Footwear|39.0|
 
-*(Visual chart in source document: Horizontal bar chart showing Operating profit (millions; source currency not stated) across Men's Street Footwear (\~82.8), Women's Apparel (\~68.7), Men's Athletic Footwear (\~51.8), Women's Street Footwear (\~45.1), Men's Apparel (\~44.8), and Women's Athletic Footwear (\~39.0)).*
+<img width="434" height="206" alt="Operating Profit By Product" src="https://github.com/user-attachments/assets/b5b5620f-abfe-4821-97f8-e39e8ac112f9" />
 
 * **Portfolio-wide performance.** The dataset records 899.9 million in sales, 332.1 million in operating profit and 2.48 million units sold across 2020–2021 (currency not supplied).
 * **Retailer concentration.** West Gear contributes 243.0 million in sales (27.0%) and Foot Locker 220.1 million (24.5%). Together they represent 51.5% of sales. Sports Direct generates 182.5 million in sales and has the highest weighted retailer margin among the six retailers, at 40.7%.
